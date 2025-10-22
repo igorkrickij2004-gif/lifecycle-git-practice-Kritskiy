@@ -1,3 +1,4 @@
-Крицкий Игорь Борисович
-Группа: БИ-б-о-241
-Курс: 2
+Kritskiy Igor Borisovich  
+Group: BI-b-o-241  
+Course: 2  
+Change my_first_file.txt: a new line has been added.
