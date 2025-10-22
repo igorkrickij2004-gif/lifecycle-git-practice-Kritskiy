@@ -1,0 +1,4 @@
+Second file created for Git practice.
+Author: Kritskiy Igor Borisovich
+Group: BI-b-o-241
+Course: 2
