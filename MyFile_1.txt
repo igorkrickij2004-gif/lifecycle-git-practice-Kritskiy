@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Это содержимое файла из ветки MyFirstBranchKritskiy от студента Kritskiy
+=======
+Это совершенно другое содержимое из ветки MyNewBranchKritskiy от Kritskiy
+>>>>>>> MyNewBranchKritskiy
